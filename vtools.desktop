@@ -1,0 +1,12 @@
+[Desktop Entry]
+
+Version=0.1
+Encoding=UTF-8
+Name[en_US]=V-Tools
+Comment[en_US]=V-Tools v0.1 APLHA
+
+Exec=/usr/bin/v-tools/build/exe.linux-x86_64-3.9/qt_folder_popup
+Icon=/usr/bin/v-tools/build/exe.linux-x86_64-3.9/hat.ico
+
+Type=Application
+Categories=Application
